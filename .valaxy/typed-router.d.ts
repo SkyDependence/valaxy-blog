@@ -29,7 +29,6 @@ declare module 'vue-router/auto-routes' {
     '/page/[page]': RouteRecordInfo<'/page/[page]', '/page/:page', { page: ParamValue<true> }, { page: ParamValue<false> }>,
     '/posts/解决VScode的run-code中Java在终端显示的乱码问题': RouteRecordInfo<'/posts/解决VScode的run-code中Java在终端显示的乱码问题', '/posts/解决VScode的run-code中Java在终端显示的乱码问题', Record<never, never>, Record<never, never>>,
     '/posts/如何创建YouTube-API凭证': RouteRecordInfo<'/posts/如何创建YouTube-API凭证', '/posts/如何创建YouTube-API凭证', Record<never, never>, Record<never, never>>,
-    '/posts/hello-valaxy': RouteRecordInfo<'/posts/hello-valaxy', '/posts/hello-valaxy', Record<never, never>, Record<never, never>>,
     '/posts/My-new-post': RouteRecordInfo<'/posts/My-new-post', '/posts/My-new-post', Record<never, never>, Record<never, never>>,
     '/tags/': RouteRecordInfo<'/tags/', '/tags', Record<never, never>, Record<never, never>>,
   }
