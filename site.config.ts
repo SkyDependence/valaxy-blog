@@ -1,13 +1,13 @@
 import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
-  url: 'https://valaxy.site/',
+  url: 'https://hjcs.pages.dev/',
   lang: 'zh-CN',
-  title: 'Valaxy Theme Yun',
+  title: '造物无言却有情，每逢寒尽觉春生',
   author: {
     name: '寒尽春生',
   },
-  description: 'Valaxy Theme Yun Preview.',
+  description: '',
   social: [
     {
       name: 'RSS',
