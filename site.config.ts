@@ -2,7 +2,7 @@ import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
   frontmatter: {
-    time_warning: true,
+    time_warning: false,
   },
   /**
    * 开启阅读统计
@@ -24,7 +24,7 @@ export default defineSiteConfig({
   title: '寒尽春生的小站',
   author: {
     name: '寒尽春生',
-    avatar: 'https://tc.bian666.cf/file/c8563a45e75c259742837.png'
+    avatar: './images/8.png'
   },
   description: '',
   social: [
@@ -76,7 +76,7 @@ export default defineSiteConfig({
       icon: 'i-ri-bilibili-line',
       color: '#FF8EB3',
     },
-    /*{
+    /*/*{
       name: '微信公众号',
       link: 'https://cdn.yunyoujun.cn/img/about/white-qrcode-and-search.jpg',
       icon: 'i-ri-wechat-2-line',
@@ -100,7 +100,7 @@ export default defineSiteConfig({
       icon: 'i-ri-mail-line',
       color: '#8E71C1',
     },*/
-    /*{
+    /*/*{
       name: 'Travelling',
       link: 'https://www.travellings.cn/go.html',
       icon: 'i-ri-train-line',
@@ -109,7 +109,7 @@ export default defineSiteConfig({
   ],
 
   search: {
-    enable: true,
+    enable: false,
   },
 
   sponsor: {
