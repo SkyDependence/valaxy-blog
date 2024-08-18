@@ -76,7 +76,7 @@ export default defineSiteConfig({
       icon: 'i-ri-bilibili-line',
       color: '#FF8EB3',
     },
-    /*{
+    /*/*{
       name: '微信公众号',
       link: 'https://cdn.yunyoujun.cn/img/about/white-qrcode-and-search.jpg',
       icon: 'i-ri-wechat-2-line',
@@ -100,7 +100,7 @@ export default defineSiteConfig({
       icon: 'i-ri-mail-line',
       color: '#8E71C1',
     },*/
-    /*{
+    /*/*{
       name: 'Travelling',
       link: 'https://www.travellings.cn/go.html',
       icon: 'i-ri-train-line',
@@ -109,7 +109,7 @@ export default defineSiteConfig({
   ],
 
   search: {
-    enable: true,
+    enable: false,
   },
 
   sponsor: {
