@@ -24,7 +24,7 @@ export default defineSiteConfig({
   title: '寒尽春生的小站',
   author: {
     name: '寒尽春生',
-    avatar: 'https://raw.githubusercontent.com/SkyDependence/valaxy-blog/main/images/8.png'
+    avatar: 'https://raw.githubusercontent.com/SkyDependence/valaxy-blog/main/images/avatar.png'
   },
   description: '',
   social: [
