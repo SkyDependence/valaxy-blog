@@ -1,6 +1,7 @@
 ---
 title: 解决VScode的run-code中Java在终端显示的乱码问题
 date: 2024-07-26 20:11:35
+updated: false
 tags: [powershell, Java, run code]
 ---
 

@@ -3,6 +3,7 @@ import { defineSiteConfig } from 'valaxy'
 export default defineSiteConfig({
   frontmatter: {
     time_warning: false,
+    show_update_time: false,
   },
   /**
    * 开启阅读统计
@@ -24,7 +25,7 @@ export default defineSiteConfig({
   title: '寒尽春生的小站',
   author: {
     name: '寒尽春生',
-    avatar: 'https://raw.githubusercontent.com/SkyDependence/valaxy-blog/main/images/8.png'
+    avatar: 'https://raw.githubusercontent.com/SkyDependence/valaxy-blog/main/images/avatar.png'
   },
   description: '',
   social: [

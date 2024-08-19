@@ -1,6 +1,7 @@
 ---
 title: 关于Win11下SQL Server数据库PolyBase下dump文件夹内存占用过大的问题的发现及解决过程
 date: 2023-12-17 16:50:11
+updated: false
 tags: [Win11, 数据库, SQL Server, PolyBase]
 ---
 # 问题的解决方法
