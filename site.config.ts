@@ -3,7 +3,6 @@ import { defineSiteConfig } from 'valaxy'
 export default defineSiteConfig({
   frontmatter: {
     time_warning: false,
-    show_update_time: false,
   },
   /**
    * 开启阅读统计
