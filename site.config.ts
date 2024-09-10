@@ -1,4 +1,13 @@
 import { defineSiteConfig } from 'valaxy'
+import type { ZoomOptions } from 'medium-zoom'
+import type { FuseOptions } from '@vueuse/integrations/useFuse'
+import type { ILazyLoadOptions } from 'vanilla-lazyload'
+import type { RouteRecordRaw } from 'vue-router'
+import type { ValaxyAddon } from '../types'
+import type { DefaultTheme } from './default-theme'
+import type { PostFrontMatter } from './frontmatter'
+import type { FuseListItem } from './node'
+
 
 export default defineSiteConfig({
   mode: 'auto',
@@ -30,8 +39,25 @@ export default defineSiteConfig({
   description: 'skydev的小世界',
   author: {
     name: 'skydev',
-    avatar: 'https://raw.githubusercontent.com/SkyDependence/valaxy-blog/main/images/avatar.jpg'
+    avatar: 'https://raw.githubusercontent.com/SkyDependence/valaxy-blog/main/images/avatar.jpg',
+    status: {
+      /**
+       * Emoji representation of your status like '👨‍💻'
+       * @description 你的状态的 Emoji 表示，如 '👨‍💻'
+       */
+      emoji: '🌓',
+      /**
+       * show when hover emoji
+       * @description 当鼠标悬浮在图标上时显示
+       */
+      message: 'Per aspera ad astra',
+    }    
   },
+  /**
+   * show last updated time by git/mtime
+   */
+  lastUpdated: false,
+  favicon: 'https://raw.githubusercontent.com/SkyDependence/valaxy-blog/main/images/avatar.jpg',
   social: [
     {
       name: 'RSS',
@@ -114,28 +140,49 @@ export default defineSiteConfig({
   ],
 
   search: {
-    enable: false,
+    enable: true,
+    type: 'fuse',
+  },
+  fuse: {
+    /**
+     * @default 'valaxy-fuse-list.json'
+     * @description 搜索结果列表数据所在路径
+     */
+    dataPath: 'valaxy-fuse-list.json',
+    /**
+     * @see https://fusejs.io/api/options.html
+     */
+    options: FuseOptions<FuseListItem> & {
+      /**
+       * @default ['title', 'tags', 'categories', 'excerpt']
+       * @description 搜索的字段
+       * @see https://fusejs.io/api/options.html#keys
+       */
+      keys: FuseOptions<FuseListItem>['key'],
+    }
   },
 
   sponsor: {
-    enable: false,
+    enable: true,
     title: '我很可爱，请给我钱！',
     methods: [
       {
         name: '支付宝',
-        url: 'https://cdn.yunyoujun.cn/img/donate/alipay-qrcode.jpg',
+        url: 'https://raw.githubusercontent.com/SkyDependence/valaxy-blog/main/images/alipay.jpg',
         color: '#00A3EE',
         icon: 'i-ri-alipay-line',
       },
+      /*
       {
         name: 'QQ 支付',
         url: 'https://cdn.yunyoujun.cn/img/donate/qqpay-qrcode.png',
         color: '#12B7F5',
         icon: 'i-ri-qq-line',
       },
+      */
       {
         name: '微信支付',
-        url: 'https://cdn.yunyoujun.cn/img/donate/wechatpay-qrcode.jpg',
+        url: 'https://raw.githubusercontent.com/SkyDependence/valaxy-blog/main/images/wechatpay.png',
         color: '#2DC100',
         icon: 'i-ri-wechat-pay-line',
       },
