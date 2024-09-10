@@ -1,12 +1,4 @@
 import { defineSiteConfig } from 'valaxy'
-import type { ZoomOptions } from 'medium-zoom'
-import type { FuseOptions } from '@vueuse/integrations/useFuse'
-import type { ILazyLoadOptions } from 'vanilla-lazyload'
-import type { RouteRecordRaw } from 'vue-router'
-import type { ValaxyAddon } from '../types'
-import type { DefaultTheme } from './default-theme'
-import type { PostFrontMatter } from './frontmatter'
-import type { FuseListItem } from './node'
 
 
 export default defineSiteConfig({
@@ -140,27 +132,10 @@ export default defineSiteConfig({
   ],
 
   search: {
-    enable: true,
+    enable: false,
     type: 'fuse',
   },
-  fuse: {
-    /**
-     * @default 'valaxy-fuse-list.json'
-     * @description 搜索结果列表数据所在路径
-     */
-    dataPath: 'valaxy-fuse-list.json',
-    /**
-     * @see https://fusejs.io/api/options.html
-     */
-    options: FuseOptions<FuseListItem> & {
-      /**
-       * @default ['title', 'tags', 'categories', 'excerpt']
-       * @description 搜索的字段
-       * @see https://fusejs.io/api/options.html#keys
-       */
-      keys: FuseOptions<FuseListItem>['key'],
-    }
-  },
+  
 
   sponsor: {
     enable: true,
