@@ -41,8 +41,9 @@ export default defineValaxyConfig<UserThemeConfig>({
     footer: {
       since: 2023,
       beian: {
-        enable: false,
-        icp: '苏ICP备17038157号',
+        enable: true,
+        icp: '萌ICP备20249936号',
+        url: 'https://icp.gov.moe/?keyword=20249936'
       },
     },
   },
