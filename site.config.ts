@@ -49,7 +49,7 @@ export default defineSiteConfig({
    * show last updated time by git/mtime
    */
   lastUpdated: false,
-  favicon: 'https://raw.githubusercontent.com/SkyDependence/valaxy-blog/main/images/avatar.ico',
+  favicon: 'https://raw.githubusercontent.com/SkyDependence/valaxy-blog/main/images/icon.png',
   social: [
     {
       name: 'RSS',
