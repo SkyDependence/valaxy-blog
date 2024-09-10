@@ -8,7 +8,7 @@ export default defineSiteConfig({
   timezone: 'Asia/Shanghai',
 
   frontmatter: {
-    time_warning: false,
+    time_warning: true,
   },
   /**
    * 开启阅读统计
