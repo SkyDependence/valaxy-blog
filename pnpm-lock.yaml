@@ -18,6 +18,9 @@ importers:
       typescript:
         specifier: ^5.5.4
         version: 5.5.4
+      valaxy-addon-components:
+        specifier: ^0.0.2
+        version: 0.0.2
 
 packages:
 
@@ -2726,6 +2729,9 @@ packages:
     resolution: {integrity: sha512-+g8ENReyr8YsOc6fv/NVJs2vFdHBnBNdfE49rshrTzDWOlUx4Gq7KOS2GD8eqhy2j+Ejq29+SbKH8yjkAqXqoA==}
     engines: {node: '>=8'}
     hasBin: true
+
+  valaxy-addon-components@0.0.2:
+    resolution: {integrity: sha512-J6JeNTagohF9fNvYaYiOwVHQGuhoWamy1P01mEUfzreacaJ3CqzJU1G/uSFMTvm3CXvMo8OAQCwqa+OqBG0dkw==}
 
   valaxy-theme-yun@0.19.9:
     resolution: {integrity: sha512-hFkRaAMc3lFjgdnUbCRK+X3jMrKu/mVLjJp/U12cCu2xJmmIcNDNYndqIXY5e+jz6XXWaqk+8f0TtvQV3FCW0g==}
@@ -5871,6 +5877,8 @@ snapshots:
       diff: 5.2.0
       kleur: 4.1.5
       sade: 1.8.1
+
+  valaxy-addon-components@0.0.2: {}
 
   valaxy-theme-yun@0.19.9:
     dependencies:

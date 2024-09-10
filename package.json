@@ -16,6 +16,7 @@
     "valaxy-theme-yun": "0.19.9"
   },
   "devDependencies": {
-    "typescript": "^5.5.4"
+    "typescript": "^5.5.4",
+    "valaxy-addon-components": "^0.0.2"
   }
 }
