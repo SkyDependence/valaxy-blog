@@ -1,6 +1,11 @@
 import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
+  mode: 'auto',
+  lang: 'zh-CN',
+  languages: ['zh-CN', 'en'],
+  timezone: 'Asia/Shanghai',
+
   frontmatter: {
     time_warning: false,
   },
@@ -20,13 +25,13 @@ export default defineSiteConfig({
     },
   },
   url: 'https://hjcs.pages.dev/',
-  lang: 'zh-CN',
-  title: '寒尽春生的小站',
+  title: 'skydev的小站',
+  subtitle: 'Ciallo~(∠・ω< )',
+  description: 'skydev的小世界',
   author: {
-    name: '寒尽春生',
-    avatar: 'https://raw.githubusercontent.com/SkyDependence/valaxy-blog/main/images/avatar.png'
+    name: 'skydev',
+    avatar: 'https://raw.githubusercontent.com/SkyDependence/valaxy-blog/main/images/avatar.jpg'
   },
-  description: '',
   social: [
     {
       name: 'RSS',
