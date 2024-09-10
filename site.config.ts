@@ -25,7 +25,7 @@ export default defineSiteConfig({
       },
     },
   },
-  url: 'https://hjcs.pages.dev/',
+  url: 'https://skydevs.link/',
   title: 'skydev的小站',
   subtitle: 'Ciallo~(∠・ω< )',
   description: 'skydev的小世界',
