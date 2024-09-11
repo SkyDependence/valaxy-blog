@@ -3,6 +3,8 @@ title: 如何创建YouTube API凭证
 date: 2024-08-16 21:55:27
 updated: false
 tags: [YouTube]
+categories:
+    - tech
 ---
 
 # 如何创建您的 YouTube API 凭据
