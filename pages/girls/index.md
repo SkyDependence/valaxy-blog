@@ -35,6 +35,82 @@ girls:
     reason: 呜呜呜
     from: CLANNAD
     avatar: https://lain.bgm.tv/r/400/pic/crt/l/e9/cf/4_crt_ZeUZW.jpg?r=1692105566
+  - name: 菲伦
+    reason: 肥伦可爱捏
+    from: 葬送的芙莉莲
+    avatar: https://lain.bgm.tv/r/400/pic/crt/l/38/6d/86247_crt_C8831.jpg?r=1692974235
+  - name: 芙莉莲
+    reason: 老东西可爱捏
+    from: 葬送的芙莉莲
+    avatar: https://lain.bgm.tv/r/400/pic/crt/l/b5/b6/86246_crt_VexxG.jpg?r=1696587402
+  - name: 晓美焰
+    reason: 吼姆辣酱
+    from: 魔法少女小圆
+    avatar: https://lain.bgm.tv/r/400/pic/crt/l/b6/ba/10440_crt_7qd06.jpg?r=1630181644
+  - name: 后藤一里
+    reason: 波奇酱
+    from: 孤独摇滚！
+    avatar: https://lain.bgm.tv/r/400/pic/crt/l/b1/9c/87968_crt_illf5.jpg?r=1668060514
+  - name: 喜多郁代
+    reason: 归去来兮女士
+    from: 孤独摇滚！
+    avatar: https://lain.bgm.tv/r/400/pic/crt/l/d4/f4/87975_crt_WUMbD.jpg?r=1666830882
+  - name: 秋山澪
+    reason: 黑长直yyds
+    from: 轻音少女
+    avatar: https://lain.bgm.tv/r/400/pic/crt/l/2c/b7/467_crt_3nSv5.jpg?r=1678706431
+  - name: 雏鹤爱
+    reason: 可愛いいいいいいいいいいいいいい
+    from: 龙王的工作！
+    avatar: https://lain.bgm.tv/r/400/pic/crt/l/32/39/38064_crt_zcWe2.jpg?r=1516427696
+  - name: 空银子
+    reason: 银不了
+    from: 龙王的工作！
+    avatar: https://lain.bgm.tv/r/400/pic/crt/l/ea/2a/38065_crt_hjnjV.jpg?r=1517307638
+  - name: 宫园薰
+    reason: 熏！
+    from: 四月是你的谎言
+    avatar: https://lain.bgm.tv/r/400/pic/crt/l/63/77/26003_crt_jv644.jpg?r=1420760358
+  - name: 雪之下雪乃
+    reason: 黑长直，赢！
+    from: 我的青春恋爱物语果然有问题
+    avatar: https://lain.bgm.tv/r/400/pic/crt/l/7a/02/19040_crt_wQQO2.jpg?r=1515405272
+  - name: 一色彩羽
+    reason: 是小恶魔哦
+    from: 我的青春恋爱物语果然有问题
+    avatar: https://lain.bgm.tv/r/400/pic/crt/l/83/30/26090_crt_D0gwP.jpg?r=1596390555
+  - name: 泽村·史宾瑟·英梨梨
+    reason: 尽梨了
+    from: 路人女主的养成方法
+    avatar: https://lain.bgm.tv/r/400/pic/crt/l/33/af/24093_crt_lmoM7.jpg?r=1674913204
+  - name: 逢坂大河
+    reason: 掌中萌虎
+    from: 龙与虎
+    avatar: https://lain.bgm.tv/r/400/pic/crt/l/b7/a0/1762_crt_wgi44.jpg?r=1497968019
+  - name: 妮妮姆·拉雷
+    reason: 白毛侧乳好涩哦
+    from: 天才王子的赤字国家振兴术
+    avatar: https://lain.bgm.tv/r/400/pic/crt/l/5c/77/72994_crt_Ba9ZW.jpg?r=1643242211
+  - name: 高木同学
+    reason: 西片太太！
+    from: 擅长捉弄的高木同学
+    avatar: https://lain.bgm.tv/r/400/pic/crt/l/c8/7c/41849_crt_14M60.jpg?r=1645970420
+  - name: 椎名真白
+    reason: 我第二季呢
+    from: 樱花庄的宠物女孩
+    avatar: https://lain.bgm.tv/r/400/pic/crt/l/a4/38/12106_crt_mDXSV.jpg
+  - name: 塞西莉亚
+    reason: 小南娘的表情包
+    from: 白圣女与黑牧师
+    avatar: https://lain.bgm.tv/r/400/pic/crt/l/c0/22/116743_crt_sSz37.jpg?r=1689608845
+  - name: 伊蕾娜
+    reason: 骗钱骗色
+    from: 魔女之旅
+    avatar: https://lain.bgm.tv/r/400/pic/crt/l/35/0e/72355_crt_6Z6zM.jpg?r=1602429332
+  - name: 小丝侑
+    reason: 
+    from: 终将成为你
+    avatar: https://lain.bgm.tv/r/400/pic/crt/l/42/d7/63028_crt_pso5O.jpg?r=1538834795
 # You also can pass a json link.
 # girls: https://wives.yunyoujun.cn/girls.json
 random: false

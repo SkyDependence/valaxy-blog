@@ -27,8 +27,7 @@ const props = defineProps<{
   /* 你可以在这里自定义 avatar 样式 */
   
   /* 比如调整头像的尺寸 */
-  width: 6rem !important;
-  height: 6rem !important;
-
+  width: 5.5rem !important;
+  height: 5.5rem !important;
 }
 </style>
