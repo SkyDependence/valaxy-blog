@@ -111,6 +111,10 @@ girls:
     reason: 
     from: 终将成为你
     avatar: https://lain.bgm.tv/r/400/pic/crt/l/42/d7/63028_crt_pso5O.jpg?r=1538834795
+  - name: 七海灯子
+    reason: 
+    from: 终将成为你
+    avatar: https://lain.bgm.tv/r/400/pic/crt/l/95/c2/63029_crt_BBBzT.jpg?r=1539454254
 # You also can pass a json link.
 # girls: https://wives.yunyoujun.cn/girls.json
 random: false
