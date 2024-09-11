@@ -2,27 +2,23 @@
 import OriginalYunGirls from 'valaxy-theme-yun/components/YunGirls.vue'
 
 // 自定义数据
-const girlsData = [
-  {
-    name: 'Sakura',
-    url: 'https://example.com/sakura',
-    avatar: 'https://example.com/sakura-avatar.png',
-    from: 'Anime',
-    reason: 'Beautiful character'
-  },
-  {
-    name: 'Miku',
-    url: 'https://example.com/miku',
-    avatar: 'https://example.com/miku-avatar.png',
-    from: 'Vocaloid',
-    reason: 'Popular singer'
-  }
-]
+interface GirlType {
+  name: string
+  url: string
+  avatar: string
+  from?: string
+  reason?: string
+}
+
+const props = defineProps<{
+  girls: GirlType[] | string
+  random?: boolean
+}>()
 </script>
 
 <template>
   <!-- 使用原有的 YunGirls 组件 -->
-  <OriginalYunGirls :girls="girlsData" :random="true"/>
+  <OriginalYunGirls :girls="girls" :random="random"/>
 </template>
 
 <style lang="scss">

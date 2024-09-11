@@ -31,6 +31,10 @@ girls:
     reason: 我一直都喜欢妹妹！
     from: 不时用俄语小声说真心话的邻桌艾莉同学
     avatar: https://lain.bgm.tv/r/400/pic/crt/l/e5/a7/97303_crt_03HI8.jpg?r=1723293989
+  - name: 古河渚
+    reason: 呜呜呜
+    from: CLANNAD
+    avatar: https://lain.bgm.tv/r/400/pic/crt/l/e9/cf/4_crt_ZeUZW.jpg?r=1692105566
 # You also can pass a json link.
 # girls: https://wives.yunyoujun.cn/girls.json
 random: false
