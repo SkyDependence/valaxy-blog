@@ -115,6 +115,10 @@ girls:
     reason: 
     from: 终将成为你
     avatar: https://lain.bgm.tv/r/400/pic/crt/l/95/c2/63029_crt_BBBzT.jpg?r=1539454254
+  - name: 佐伯沙弥香
+    reason: 禁止迫害佐伯女士
+    from: 终将成为你
+    avatar: https://lain.bgm.tv/r/400/pic/crt/l/c1/bf/65746_crt_H402K.jpg?r=1540048002
 # You also can pass a json link.
 # girls: https://wives.yunyoujun.cn/girls.json
 random: false
