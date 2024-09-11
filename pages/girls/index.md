@@ -1,13 +1,13 @@
 ---
 title: Lovely Girls
-date: 2019-01-07 11:17:35
-updated: 2019-01-07 11:17:35
+date: 2024-09-11 11:17:35
+updated: 2024-09-11 11:17:35
 icon: i-ri-women-line
 girls:
   - name: 八奈见杏菜
     from: 败犬女主也太多了！
     reason: 老八也是个尤物
-    avatar: https://raw.githubusercontent.com/SkyDependence/valaxy-blog/main/images/girls/Yanami_Anna.png  
+    avatar: https://lain.bgm.tv/r/400/pic/crt/l/87/fc/111328_crt_Rlidu.jpg?r=1720895621 
   - name: 夜樱六美
     reason: 六美可爱捏
     url: https://mission-yozakura-family.com/character/mutsumi.html
