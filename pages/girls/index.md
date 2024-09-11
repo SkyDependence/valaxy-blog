@@ -3,6 +3,7 @@ title: Lovely Girls
 date: 2024-09-11 11:17:35
 updated: 2024-09-11 11:17:35
 icon: i-ri-women-line
+aside: false
 girls:
   - name: 八奈见杏菜
     from: 败犬女主也太多了！
@@ -12,20 +13,24 @@ girls:
     reason: 六美可爱捏
     url: https://mission-yozakura-family.com/character/mutsumi.html
     from: 夜樱家的大作战
-    avatar: https://raw.githubusercontent.com/SkyDependence/valaxy-blog/main/images/girls/mutsumi.png
+    avatar: https://lain.bgm.tv/r/400/pic/crt/l/7c/06/128332_crt_9NUnb.jpg?r=1697987414
   - name: Atri
     reason: 心中的白月光
     from: ATRI -My Dear Moments-
     url: https://zh.moegirl.org.cn/zh-cn/%E4%BA%9A%E6%89%98%E8%8E%89
-    avatar: https://raw.githubusercontent.com/SkyDependence/valaxy-blog/main/images/girls/atri.png
+    avatar: https://lain.bgm.tv/r/400/pic/crt/l/bf/05/74255_crt_UBbIQ.jpg?r=1590778533
   - name: 牧濑红莉栖
     reason: 傲娇
     from: 命运石之门
-    avatar: https://img.moegirl.org.cn/common/thumb/f/f7/Winner-diamond-2016.png/178px-Winner-diamond-2016.png
+    avatar: https://lain.bgm.tv/r/400/pic/crt/l/f7/2a/12393_crt_SS7II.jpg?r=1531372585
   - name: 涂山苏苏
     reason: 小小的也很可爱
     from: 狐妖小红娘
-    avatar: https://img.moegirl.org.cn/common/thumb/a/a1/%E6%B6%82%E5%B1%B1%E8%8B%8F%E8%8B%8F.jpg/178px-%E6%B6%82%E5%B1%B1%E8%8B%8F%E8%8B%8F.jpg
+    avatar: https://lain.bgm.tv/r/400/pic/crt/l/d5/22/39102_crt_042C1.jpg?r=1698567445
+  - name: 周防有希
+    reason: 我一直都喜欢妹妹！
+    from: 不时用俄语小声说真心话的邻桌艾莉同学
+    avatar: https://lain.bgm.tv/r/400/pic/crt/l/e5/a7/97303_crt_03HI8.jpg?r=1723293989
 # You also can pass a json link.
 # girls: https://wives.yunyoujun.cn/girls.json
 random: false
