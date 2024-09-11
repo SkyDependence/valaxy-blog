@@ -1,5 +1,6 @@
 ---
 title: 关于我
+date: 2024-09-11
 ---
 
 <h1 align="center">Hi 👋, I'm SkyDev</h1>
