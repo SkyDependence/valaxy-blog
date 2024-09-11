@@ -119,6 +119,10 @@ girls:
     reason: 禁止迫害佐伯女士
     from: 终将成为你
     avatar: https://lain.bgm.tv/r/400/pic/crt/l/c1/bf/65746_crt_H402K.jpg?r=1540048002
+  - name: 雪白七七子
+    reason: 香菜音  天然软萌  我死了
+    from: 川柳少女
+    avatar: https://lain.bgm.tv/r/400/pic/crt/l/13/26/67584_crt_zitNT.jpg?r=1555251724
 # You also can pass a json link.
 # girls: https://wives.yunyoujun.cn/girls.json
 random: false
