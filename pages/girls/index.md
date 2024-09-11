@@ -123,6 +123,10 @@ girls:
     reason: 香菜音  天然软萌  我死了
     from: 川柳少女
     avatar: https://lain.bgm.tv/r/400/pic/crt/l/13/26/67584_crt_zitNT.jpg?r=1555251724
+  - name: 友利奈绪
+    reason: 反手就是一个prpr
+    from: 夏洛特
+    avatar: https://lain.bgm.tv/r/400/pic/crt/l/a6/39/29511_crt_4hWZh.jpg?r=1432823507
 # You also can pass a json link.
 # girls: https://wives.yunyoujun.cn/girls.json
 random: false
