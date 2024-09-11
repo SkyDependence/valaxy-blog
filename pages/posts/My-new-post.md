@@ -3,6 +3,8 @@ title: 关于Win11下SQL Server数据库PolyBase下dump文件夹内存占用过�
 date: 2023-12-17 16:50:11
 updated: false
 tags: [Win11, 数据库, SQL Server, PolyBase]
+categories:
+    - tech
 ---
 # 问题的解决方法
 网上已经有前辈给出了解决方案，在此不再赘述
