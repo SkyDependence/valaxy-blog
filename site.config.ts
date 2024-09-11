@@ -2,7 +2,7 @@ import { defineSiteConfig } from 'valaxy'
 
 
 export default defineSiteConfig({
-  mode: 'auto',
+  mode: 'light',
   lang: 'zh-CN',
   languages: ['zh-CN', 'en'],
   timezone: 'Asia/Shanghai',

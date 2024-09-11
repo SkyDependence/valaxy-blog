@@ -11,6 +11,10 @@ girls:
     url: https://mission-yozakura-family.com/character/mutsumi.html
     from: 夜樱家的大作战
     avatar: https://raw.githubusercontent.com/SkyDependence/valaxy-blog/main/images/girls/mutsumi.png
+  - name: Atri
+    from: ATRI -My Dear Moments-
+    url: https://zh.moegirl.org.cn/zh-cn/%E4%BA%9A%E6%89%98%E8%8E%89
+    avatar: https://img.moegirl.org.cn/common/c/c9/ATRI_atri.png
 # You also can pass a json link.
 # girls: https://wives.yunyoujun.cn/girls.json
 random: false
