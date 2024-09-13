@@ -5,6 +5,10 @@ updated: 2024-09-11 11:17:35
 icon: i-ri-women-line
 aside: false
 girls:  
+  - name: 休比
+    from: 游戏人生 零
+    reason: 在这251秒 赌上我的全部
+    avatar:  https://lain.bgm.tv/r/400/pic/crt/l/d7/3d/52876_crt_P4pgs.jpg?r=1520356399
   - name: 君岛绫乃
     from: 不时用俄语小声说真心话的邻桌艾莉同学
     reason: 抖M女仆！
