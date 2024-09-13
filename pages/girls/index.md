@@ -4,7 +4,11 @@ date: 2024-09-11 11:17:35
 updated: 2024-09-11 11:17:35
 icon: i-ri-women-line
 aside: false
-girls:
+girls:  
+  - name: 君岛绫乃
+    from: 不时用俄语小声说真心话的邻桌艾莉同学
+    reason: 抖M女仆！
+    avatar:  https://lain.bgm.tv/r/400/pic/crt/l/b8/17/138656_crt_Ff0VX.jpg?r=1711375909
   - name: 八奈见杏菜
     from: 败犬女主也太多了！
     reason: 老八也是个尤物
