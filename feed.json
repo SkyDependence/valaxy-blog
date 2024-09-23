@@ -1,0 +1,61 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "skydev的小站",
+    "home_page_url": "https://skydevs.link/",
+    "feed_url": "https://skydevs.link/feed.json",
+    "description": "skydev的小世界",
+    "icon": "https://raw.githubusercontent.com/SkyDependence/valaxy-blog/main/images/avatar.jpg",
+    "author": {
+        "name": "skydev",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<p>This message is used to verify that this feed (feedId:60932961926499328) belongs to me (userId:43961</p>\n<br/><p>访问 <a href=\"https://skydevs.link/posts/1\" target=\"_blank\">https://skydevs.link/posts/1</a> 阅读全文。</p>",
+            "url": "https://skydevs.link/posts/1",
+            "date_modified": "2024-09-23T06:50:12.984Z",
+            "date_published": "2024-09-23T06:50:12.984Z",
+            "author": {
+                "name": "skydev",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h1>如何创建您的 YouTube API 凭据</h1>\n<p>[原文链接](<a href=\"https://gist.github.com/Kurukshetran/5904e8cb2361623498481f4a9a1338\">https://gist.github.com/Kurukshetran/5904e8cb2361623498481f4a9a1338</a></p>\n<br/><p>访问 <a href=\"https://skydevs.link/posts/如何创建YouTube-API凭证\" target=\"_blank\">https://skydevs.link/posts/如何创建YouTube-API凭证</a> 阅读全文。</p>",
+            "url": "https://skydevs.link/posts/如何创建YouTube-API凭证",
+            "title": "如何创建YouTube API凭证",
+            "date_modified": "2024-08-16T21:55:27.000Z",
+            "date_published": "2024-08-16T21:55:27.000Z",
+            "author": {
+                "name": "skydev",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h1>解决</h1>\n<p>打开powershell，检查是否有profile：</p>\n<pre><code class=\"language-powershell\">\nTest-Path $PROFILE\n\n</code></pre>\n<p>如果没有，创建一个：</p>\n<pre><code class=\"language-powershell\"></code></pre>\n<br/><p>访问 <a href=\"https://skydevs.link/posts/解决VScode的run-code中Java在终端显示的乱码问题\" target=\"_blank\">https://skydevs.link/posts/解决VScode的run-code中Java在终端显示的乱码问题</a> 阅读全文。</p>",
+            "url": "https://skydevs.link/posts/解决VScode的run-code中Java在终端显示的乱码问题",
+            "title": "解决VScode的run-code中Java在终端显示的乱码问题",
+            "date_modified": "2024-07-26T20:11:35.000Z",
+            "date_published": "2024-07-26T20:11:35.000Z",
+            "author": {
+                "name": "skydev",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h1>问题的解决方法</h1>\n<p>网上已经有前辈给出了解决方案，在此不再赘述</p>\n<p>[解决方法（解决PolyBase下dump文件夹不断增长占用大量C盘空间的问题）](<a href=\"https://blog.csdn.net/qq_\">https://blog.csdn.net/qq_</a></p>\n<br/><p>访问 <a href=\"https://skydevs.link/posts/My-new-post\" target=\"_blank\">https://skydevs.link/posts/My-new-post</a> 阅读全文。</p>",
+            "url": "https://skydevs.link/posts/My-new-post",
+            "title": "关于Win11下SQL Server数据库PolyBase下dump文件夹内存占用过大的问题的发现及解决过程",
+            "date_modified": "2023-12-17T16:50:11.000Z",
+            "date_published": "2023-12-17T16:50:11.000Z",
+            "author": {
+                "name": "skydev",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}

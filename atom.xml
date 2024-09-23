@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://skydevs.link/</id>
+    <title>skydev的小站</title>
+    <updated>2024-09-23T06:51:10.539Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>skydev</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://skydevs.link/"/>
+    <link rel="self" href="https://skydevs.link/atom.xml"/>
+    <subtitle>skydev的小世界</subtitle>
+    <logo>https://raw.githubusercontent.com/SkyDependence/valaxy-blog/main/images/avatar.jpg</logo>
+    <icon>https://skydevs.link/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2024 © skydev</rights>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://skydevs.link/posts/1</id>
+        <link href="https://skydevs.link/posts/1"/>
+        <updated>2024-09-23T06:50:12.984Z</updated>
+        <content type="html"><![CDATA[<p>This message is used to verify that this feed (feedId:60932961926499328) belongs to me (userId:43961</p>
+<br/><p>访问 <a href="https://skydevs.link/posts/1" target="_blank">https://skydevs.link/posts/1</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>skydev</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-09-23T06:50:12.984Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何创建YouTube API凭证]]></title>
+        <id>https://skydevs.link/posts/如何创建YouTube-API凭证</id>
+        <link href="https://skydevs.link/posts/如何创建YouTube-API凭证"/>
+        <updated>2024-08-16T21:55:27.000Z</updated>
+        <content type="html"><![CDATA[<h1>如何创建您的 YouTube API 凭据</h1>
+<p>[原文链接](<a href="https://gist.github.com/Kurukshetran/5904e8cb2361623498481f4a9a1338">https://gist.github.com/Kurukshetran/5904e8cb2361623498481f4a9a1338</a></p>
+<br/><p>访问 <a href="https://skydevs.link/posts/如何创建YouTube-API凭证" target="_blank">https://skydevs.link/posts/如何创建YouTube-API凭证</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>skydev</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-08-16T21:55:27.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解决VScode的run-code中Java在终端显示的乱码问题]]></title>
+        <id>https://skydevs.link/posts/解决VScode的run-code中Java在终端显示的乱码问题</id>
+        <link href="https://skydevs.link/posts/解决VScode的run-code中Java在终端显示的乱码问题"/>
+        <updated>2024-07-26T20:11:35.000Z</updated>
+        <content type="html"><![CDATA[<h1>解决</h1>
+<p>打开powershell，检查是否有profile：</p>
+<pre><code class="language-powershell">
+Test-Path $PROFILE
+
+</code></pre>
+<p>如果没有，创建一个：</p>
+<pre><code class="language-powershell"></code></pre>
+<br/><p>访问 <a href="https://skydevs.link/posts/解决VScode的run-code中Java在终端显示的乱码问题" target="_blank">https://skydevs.link/posts/解决VScode的run-code中Java在终端显示的乱码问题</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>skydev</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-07-26T20:11:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于Win11下SQL Server数据库PolyBase下dump文件夹内存占用过大的问题的发现及解决过程]]></title>
+        <id>https://skydevs.link/posts/My-new-post</id>
+        <link href="https://skydevs.link/posts/My-new-post"/>
+        <updated>2023-12-17T16:50:11.000Z</updated>
+        <content type="html"><![CDATA[<h1>问题的解决方法</h1>
+<p>网上已经有前辈给出了解决方案，在此不再赘述</p>
+<p>[解决方法（解决PolyBase下dump文件夹不断增长占用大量C盘空间的问题）](<a href="https://blog.csdn.net/qq_">https://blog.csdn.net/qq_</a></p>
+<br/><p>访问 <a href="https://skydevs.link/posts/My-new-post" target="_blank">https://skydevs.link/posts/My-new-post</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>skydev</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-12-17T16:50:11.000Z</published>
+    </entry>
+</feed>

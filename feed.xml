@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>skydev的小站</title>
+        <link>https://skydevs.link/</link>
+        <description>skydev的小世界</description>
+        <lastBuildDate>Mon, 23 Sep 2024 06:51:10 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>skydev的小站</title>
+            <url>https://raw.githubusercontent.com/SkyDependence/valaxy-blog/main/images/avatar.jpg</url>
+            <link>https://skydevs.link/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2024 © skydev</copyright>
+        <atom:link href="https://skydevs.link/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <link>https://skydevs.link/posts/1</link>
+            <guid>https://skydevs.link/posts/1</guid>
+            <pubDate>Mon, 23 Sep 2024 06:50:12 GMT</pubDate>
+            <content:encoded><![CDATA[<p>This message is used to verify that this feed (feedId:60932961926499328) belongs to me (userId:43961</p>
+<br/><p>访问 <a href="https://skydevs.link/posts/1" target="_blank">https://skydevs.link/posts/1</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (skydev)</author>
+        </item>
+        <item>
+            <title><![CDATA[如何创建YouTube API凭证]]></title>
+            <link>https://skydevs.link/posts/如何创建YouTube-API凭证</link>
+            <guid>https://skydevs.link/posts/如何创建YouTube-API凭证</guid>
+            <pubDate>Fri, 16 Aug 2024 21:55:27 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>如何创建您的 YouTube API 凭据</h1>
+<p>[原文链接](<a href="https://gist.github.com/Kurukshetran/5904e8cb2361623498481f4a9a1338">https://gist.github.com/Kurukshetran/5904e8cb2361623498481f4a9a1338</a></p>
+<br/><p>访问 <a href="https://skydevs.link/posts/如何创建YouTube-API凭证" target="_blank">https://skydevs.link/posts/如何创建YouTube-API凭证</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (skydev)</author>
+        </item>
+        <item>
+            <title><![CDATA[解决VScode的run-code中Java在终端显示的乱码问题]]></title>
+            <link>https://skydevs.link/posts/解决VScode的run-code中Java在终端显示的乱码问题</link>
+            <guid>https://skydevs.link/posts/解决VScode的run-code中Java在终端显示的乱码问题</guid>
+            <pubDate>Fri, 26 Jul 2024 20:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>解决</h1>
+<p>打开powershell，检查是否有profile：</p>
+<pre><code class="language-powershell">
+Test-Path $PROFILE
+
+</code></pre>
+<p>如果没有，创建一个：</p>
+<pre><code class="language-powershell"></code></pre>
+<br/><p>访问 <a href="https://skydevs.link/posts/解决VScode的run-code中Java在终端显示的乱码问题" target="_blank">https://skydevs.link/posts/解决VScode的run-code中Java在终端显示的乱码问题</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (skydev)</author>
+        </item>
+        <item>
+            <title><![CDATA[关于Win11下SQL Server数据库PolyBase下dump文件夹内存占用过大的问题的发现及解决过程]]></title>
+            <link>https://skydevs.link/posts/My-new-post</link>
+            <guid>https://skydevs.link/posts/My-new-post</guid>
+            <pubDate>Sun, 17 Dec 2023 16:50:11 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>问题的解决方法</h1>
+<p>网上已经有前辈给出了解决方案，在此不再赘述</p>
+<p>[解决方法（解决PolyBase下dump文件夹不断增长占用大量C盘空间的问题）](<a href="https://blog.csdn.net/qq_">https://blog.csdn.net/qq_</a></p>
+<br/><p>访问 <a href="https://skydevs.link/posts/My-new-post" target="_blank">https://skydevs.link/posts/My-new-post</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (skydev)</author>
+        </item>
+    </channel>
+</rss>
